@@ -51,13 +51,13 @@ To include this repository in your project as a submodule, follow these steps:
 1. Navigate to your project directory:
 
    ```bash
-   cd /path/to/your/project
+   cd /path/to/your/device/driver
    ```
 
-2. Add the submodule using the following command, replacing `<repo-url>` with the actual repository URL:
+2. Add the submodule using the following command.
 
    ```bash
-   git submodule add <repo-url> STM32F1
+   git submodule add -b STM32 https://github.com/bharathrameshkumar/Drivers.git STM32F1
    ```
 
 3. Initialize and update the submodule:
