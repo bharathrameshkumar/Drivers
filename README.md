@@ -72,14 +72,10 @@ To include this repository in your project as a submodule, follow these steps:
    git submodule update --remote
    ```
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE.txt file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or raise an issue.
 
 ## Contact
 
-For any questions or suggestions, please contact [Your Name] at [Your Email].
+For any questions or suggestions, please contact the [maintainer](https://github.com/bharathrameshkumar) of this repo.
